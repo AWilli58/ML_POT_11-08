@@ -1,4 +1,4 @@
-# Lab-4
+# Lab-4 - Titanic Labs
 
 For Lab-4, there are 5 sub-labs that you can select that show other features of Watson Studio. Each lab is based on the Titanic data set, often used in Kaggle competitions.   
 
