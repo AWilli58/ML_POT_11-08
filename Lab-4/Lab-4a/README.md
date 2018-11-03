@@ -1,8 +1,8 @@
-# Lab-4a - Watson Machine Learning Lab 
+# Lab-4a: Watson Machine Learning Lab 
 
 ## Introduction:
 
-In this lab, you will use IBM's Watson Machine Learning GUI to train, evaluate, and deploy a Watson Machine Learning model based on the Titanic dataset. This is a common data set used in Kaggle competitions. 
+In this lab, you will use IBM's Watson Machine Learning GUI to train, evaluate, and deploy a Watson Machine Learning model based on the Titanic dataset. This is a common data set used in Kaggle competitions.  You will then deploy a web application that calls the Watson Machine Learning model. 
 
 ## Objectives:
 
@@ -15,10 +15,8 @@ Upon completing the lab, you will:
 
 ## Instructions:
 
-### Step 1.  Please click on the link below and then press the `Download` button to download the instructions to your machine.
+### Step 1.  Please click on the link below to download the instructions to your machine.
 
-[Instructions](https://github.com/bleonardb3/ML_POT_9-6/blob/master/Lab-4/Lab-4a/WatsonMachineLearningv5.pdf).
-
-
+[Instructions](https://github.com/bleonardb3/ML_POT_11-08/raw/master/Lab-4a/WatsonMachineLearningv6.pdf).
 
 
