@@ -1,6 +1,6 @@
 # Lab-4
 
-For Lab-4, there are 4 sub-labs that you can select that show other features of Watson Studio. Each lab is based on the Titanic data set, often used in Kaggle competitions.   
+For Lab-4, there are 5 sub-labs that you can select that show other features of Watson Studio. Each lab is based on the Titanic data set, often used in Kaggle competitions.   
 
 1. [Lab-4a](https://github.com/bleonardb3/ML_POT_9-6/tree/master/Lab-4/Lab-4a) - The first lab will use the Watson Machine Learning Model Builder capability to create a machine learning model based on the Titanic data set. The model will be deployed in the IBM Cloud, and an application will be built that uses the deployed machine learning model to predict survivability given passenger characteristics.
 
