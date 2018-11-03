@@ -45,10 +45,10 @@ Upon completing the lab, you will know how to:
 1. In the Notebook URL field, use `https://github.com/bleonardb3/ML_POT_11-08/blob/master/Lab-1/Heart%20Disease.ipynb`.
 1. Select the Default Spark Python 3.5 XS environment then click the `Create Notebook` button on the bottom right of the screen.
 
-### Step 5. Select the Set Kernel button in the popup. 
+### Step 5. Click the Set Kernel button in the popup. 
 > <img src="https://github.com/bleonardb3/ML_POT_11-08/blob/master/Lab-1/images/Set%20Kernel.png"/>
 
-### Step 5.  Follow the instructions in the notebook.
+### Step 6.  Follow the instructions in the notebook.
 
 
 
