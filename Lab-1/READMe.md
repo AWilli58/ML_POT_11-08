@@ -2,7 +2,7 @@
 
 ## Introduction:
 
-In this lab, you will use a Jupyter Notebook to train a model using the XGBoost library to classify whether a person has heart disease or not In addition to training, the notebook also explains how to persist a trained model to the IBM Watson Machine Learning repository, deploy the model as a REST service and to predict using the deployed model using the REST APIs.
+In this lab, you will use a Jupyter Notebook to train a model using the XGBoost library to classify whether a person has heart disease or not In addition to training, the notebook also explains how to persist a trained model to the IBM Watson Machine Learning repository, and deploy the model as a REST service.
 
 In order to train and test the heart disease prediction model, you will be using an open source data set published in the University of California, Irvine (UCI) Machine Learning Repository.
 
@@ -20,7 +20,7 @@ Upon completing the lab, you will know how to:
 1. Use cross validation to select optimal model hyperparameters based on a parameter grid
 1. Persist best model in Watson Machine Learning repository using Python client library.
 1. Deploy the model for online scoring using the Watson Machine Learning's REST APIs
-1. Score sample data using the Watson Machine Learning's REST APIs.
+
 
 ## Instructions:
 
