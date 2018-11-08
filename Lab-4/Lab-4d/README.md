@@ -42,6 +42,6 @@ Upon completing the lab, you will know how to:
  <img src="https://github.com/bleonardb3/ML_POT_11-08/blob/master/Lab-4/Lab-4d/images/Set%20Kernel.png"/>
 
 
-### Step 4.  Follow the instructions in the notebook.
+### Step 5.  Follow the instructions in the notebook.
 
 > <img src="https://github.com/bleonardb3/AA/blob/master/Lab-4/Images/Notebook%20Introduction.png"/>
