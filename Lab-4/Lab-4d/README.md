@@ -37,6 +37,11 @@ Upon completing the lab, you will know how to:
 1. In the Notebook URL field, use `https://github.com/bleonardb3/ML_POT_11-08/blob/master/Lab-4/Lab-4d/Machine%20Learning%20with%20SparkML.ipynb`.
 1. Ensure that the `Default Spark Python 3.5XS` environment is selected, then click the `Create Notebook` button on the bottom right of the screen.
 
+### Step 4.  Click on `Set Kernel`
+
+ <img src="https://github.com/bleonardb3/ML_POT_11-08/blob/master/Lab-4/Lab-4d/images/Set%20Kernel.png"/>
+
+
 ### Step 4.  Follow the instructions in the notebook.
 
 > <img src="https://github.com/bleonardb3/AA/blob/master/Lab-4/Images/Notebook%20Introduction.png"/>
