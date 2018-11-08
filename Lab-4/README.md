@@ -10,3 +10,5 @@ For Lab-4, there are 5 sub-labs that you can select that show other features of 
 
 1. [Lab-4d](https://github.com/bleonardb3/ML_POT_11-08/tree/master/Lab-4/Lab-4d) - The fourth lab will leverage Spark machine learning (SparkML) in a Jupyter notebook to predict survivability using pyspark and a supervised learning model.
 
+1. [Lab-4e](https://github.com/bleonardb3/ML_POT_11-08/tree/master/Lab-4/Lab-4e) - The fifthlab will leverage Cognos Dashboard Embedded to build a dashboard. 
+
